@@ -1,0 +1,10 @@
+type: framework
+content:
+  - Clone and switch
+  - New feature
+  - Merge and Delete
+  - Cherry-pick
+  - Restore
+  - Another feature
+  - Release
+current_task: 6

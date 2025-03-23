@@ -1,0 +1,14 @@
+type: edu
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: test/Tests.java
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/51230#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 23 Mar 2025 09:28:58 UTC"
+record: 6
